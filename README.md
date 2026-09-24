@@ -1,21 +1,17 @@
-# 📚 Library Management System (ASP.NET Web Forms + C# + ADO.NET + SQL Server + Bootstrap 5)
+# 📚 Library Management System
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://library-system-live.loca.lt/Login.aspx)
+> ### 🔗 **Live Demo**: [https://library-system-live.loca.lt/Login.aspx](https://library-system-live.loca.lt/Login.aspx)
+> **Login**: `admin` &nbsp;|&nbsp; **Password**: `admin123`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://library-system-live.loca.lt/Login.aspx)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/priyanshutiwari2125-cmd/Library-Management-System)
 [![ASP.NET](https://img.shields.io/badge/.NET_Framework-4.8-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
+[![SQL Server](https://img.shields.io/badge/Database-SQL_Server_LocalDB-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 
 A complete, production-quality, responsive **Library Management System** built with **ASP.NET Web Forms (.NET Framework 4.8)**, **C#**, **ADO.NET**, **SQL Server**, **Bootstrap 5**, **Font Awesome 6**, **DataTables**, and **Chart.js**.
 
 ---
 
-## 🌐 Live Demo & Access
-
-- **Live URL**: [https://library-system-live.loca.lt/Login.aspx](https://library-system-live.loca.lt/Login.aspx)
-- **Local URL**: [http://localhost:8080/Login.aspx](http://localhost:8080/Login.aspx)
-- **Admin Username**: `admin`
-- **Admin Password**: `admin123`
-
----
 
 
 ## 🌟 Key Features
