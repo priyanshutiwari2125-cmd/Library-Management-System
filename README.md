@@ -1,6 +1,6 @@
 # 📚 Library Management System (ASP.NET Web Forms + C# + ADO.NET + SQL Server + Bootstrap 5)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://curly-hats-follow.loca.lt/Login.aspx)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://library-system-live.loca.lt/Login.aspx)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/priyanshutiwari2125-cmd/Library-Management-System)
 [![ASP.NET](https://img.shields.io/badge/.NET_Framework-4.8-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
 
@@ -10,7 +10,7 @@ A complete, production-quality, responsive **Library Management System** built w
 
 ## 🌐 Live Demo & Access
 
-- **Live URL**: [https://curly-hats-follow.loca.lt/Login.aspx](https://curly-hats-follow.loca.lt/Login.aspx)
+- **Live URL**: [https://library-system-live.loca.lt/Login.aspx](https://library-system-live.loca.lt/Login.aspx)
 - **Local URL**: [http://localhost:8080/Login.aspx](http://localhost:8080/Login.aspx)
 - **Admin Username**: `admin`
 - **Admin Password**: `admin123`
