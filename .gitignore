@@ -18,3 +18,4 @@ Uploads/Books/*
 !Uploads/Books/.gitkeep
 Uploads/Students/*
 !Uploads/Students/.gitkeep
+tools/
